@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Cody Scharzenberger-Braet
+
+- I have been coding primarily in Python and Matlab for the past 7 years for robotics and machine learning applications.
+- I also write code in C/C++ for embedded systems to implement control systems.
+- Since I have worked for the US Naval Research Laboratory for the past five years, most of my recent programming has been done in private GitLab repositories, but one open source project is available on GitHub here: https://github.com/USNavalResearchLaboratory/Deep_ROA
+- You can connected with my on LinkedIn here: https://www.linkedin.com/in/scharzenberger/
 
 <!--
 **Scharzenberger/Scharzenberger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
